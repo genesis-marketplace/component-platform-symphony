@@ -1,0 +1,10 @@
+{
+  "name": "@genesislcap/pbc-symphony-seed",
+  "version": "1.0.0",
+  "description": "Genesis Symphony PBC",
+  "license": "SEE LICENSE IN license.txt",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {}
+}
