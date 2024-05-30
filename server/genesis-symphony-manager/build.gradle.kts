@@ -21,7 +21,7 @@ dependencies {
     api("global.genesis:genesis-process")
     api("global.genesis:genesis-metrics")
     api("org.slf4j:slf4j-api")
-    api(platform("org.finos.symphony.bdk:symphony-bdk-bom:2.14.3"))
+    api(platform("org.finos.symphony.bdk:symphony-bdk-bom:3.0.3"))
     api("org.finos.symphony.bdk:symphony-bdk-core") {
         exclude(group = "org.yaml", module = "snakeyaml")
     }
