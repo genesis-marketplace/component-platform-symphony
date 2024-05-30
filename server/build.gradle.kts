@@ -1,7 +1,7 @@
 ext.set("localDaogenVersion", "GENESIS_SYMPHONY")
 
 plugins {
-    kotlin("jvm") version "1.9.10"
+    kotlin("jvm") version "2.0.0"
     id("org.jlleitschuh.gradle.ktlint") version "11.6.1"
     id("org.jetbrains.kotlinx.kover") version "0.7.6"
     id("org.gradle.test-retry") version "1.5.8"
