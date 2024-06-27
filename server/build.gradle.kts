@@ -3,7 +3,7 @@ ext.set("localDaogenVersion", "GENESIS_SYMPHONY")
 plugins {
     kotlin("jvm") version "1.9.10"
     id("org.jlleitschuh.gradle.ktlint") version "11.6.1"
-    id("org.jetbrains.kotlinx.kover") version "0.7.6"
+    id("org.jetbrains.kotlinx.kover") version "0.8.2"
     id("org.gradle.test-retry") version "1.5.8"
     id("com.jfrog.artifactory") version "5.2.0"
     id("org.sonarqube") version "5.0.0.4638"
